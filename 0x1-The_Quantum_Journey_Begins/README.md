@@ -1,4 +1,4 @@
-# Understanding The Quantum World
+# The Quantum Journey Begins
 
 
 ## Resources
