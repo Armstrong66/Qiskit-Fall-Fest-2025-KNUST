@@ -18,8 +18,8 @@
 
 ---
 
-### 🚀 What You Will Do
+### What You Will Do
 - View the lecture explaining the circuit concepts.
-- Open the **exact same circuit** in IBM Quantum Composer.
+- Open the **code composer** in IBM Quantum Composer.
 - Modify & run the circuit on **IBM Quantum hardware** (if available).
 
