@@ -1,4 +1,4 @@
-# Understanding The Quantum World
+# Algorithms Application and Experiments
 
 ## Resources
 

@@ -1,4 +1,4 @@
-# Understanding The Quantum World
+# Show Share and Celebrate
 
 ## Resources
 
